@@ -1127,7 +1127,7 @@ local function getObjGen()
 
             Gui.HoverFrame_5.Name = "HoverFrame"
             Gui.HoverFrame_5.Parent = Gui.Category
-            Gui.HoverFrame_5.BackgroundColor3 = Color3.fromRGB(33, 33, 33)
+            Gui.HoverFrame_5.BackgroundColor3 = Color3.fromRGB(57, 27, 27)
             Gui.HoverFrame_5.BackgroundTransparency = 1.000
             Gui.HoverFrame_5.BorderSizePixel = 0
             Gui.HoverFrame_5.Size = UDim2.new(1, 0, 1, 0)
@@ -2015,7 +2015,7 @@ local function getObjGen()
 
             Gui.HoverFrame_6.Name = "HoverFrame"
             Gui.HoverFrame_6.Parent = Gui.CategoryButton
-            Gui.HoverFrame_6.BackgroundColor3 = Color3.fromRGB(33, 33, 33)
+            Gui.HoverFrame_6.BackgroundColor3 = Color3.fromRGB(57, 27, 27)
             Gui.HoverFrame_6.BackgroundTransparency = 1.000
             Gui.HoverFrame_6.BorderSizePixel = 0
             Gui.HoverFrame_6.Size = UDim2.new(1, 0, 1, 0)
